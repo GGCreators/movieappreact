@@ -11,4 +11,4 @@
 ### `SearchBarComponent` - для поиска постеров
 ### `LocalStorage` - для хранения избранных постеров
 
-![](https://github.com/GGCreators/eshop/raw/master/screenshots/Screenshot_4.png)
+![](https://github.com/GGCreators/movieappreact/raw/master/screenshots/Screenshot_4.png)
